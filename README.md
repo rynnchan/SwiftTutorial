@@ -1,3 +1,3 @@
 # StockVis
 
-LandmarksはSwiftUIチュートリアル
+LandmarksはSwiftUIのチュートリアル
