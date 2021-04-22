@@ -16,7 +16,7 @@ struct ContentView: View {
             
             CircleImage()
                 .offset(y: -70)
-                .padding(.bottom, -60)
+                .padding(.bottom, -70)
             
             VStack(alignment: .leading) {
                 Text("Turtle Rock")
