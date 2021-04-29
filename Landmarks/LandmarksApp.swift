@@ -13,6 +13,7 @@ struct LandmarksApp: App {
         WindowGroup {
             //LandmarkDetail()
             LandmarkList()
+                .environmentObject(UserData())
         }
     }
 }

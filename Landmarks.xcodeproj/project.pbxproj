@@ -11,6 +11,7 @@
 		EB0788BA2631D749001B2BFC /* LandmarkDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB0788B92631D749001B2BFC /* LandmarkDetail.swift */; };
 		EB0788BC2631D74D001B2BFC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB0788BB2631D74D001B2BFC /* Assets.xcassets */; };
 		EB0788BF2631D74D001B2BFC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB0788BE2631D74D001B2BFC /* Preview Assets.xcassets */; };
+		EB07E0E92637D6A600FDF614 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB07E0E82637D6A600FDF614 /* UserData.swift */; };
 		EB804DF22631D87B007ED8DB /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB804DE42631D87B007ED8DB /* charleyrivers.jpg */; };
 		EB804DF32631D87B007ED8DB /* turtlerock.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB804DE52631D87B007ED8DB /* turtlerock.jpg */; };
 		EB804DF42631D87B007ED8DB /* silversalmoncreek.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EB804DE62631D87B007ED8DB /* silversalmoncreek.jpg */; };
@@ -40,6 +41,7 @@
 		EB0788BB2631D74D001B2BFC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB0788BE2631D74D001B2BFC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EB0788C02631D74D001B2BFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB07E0E82637D6A600FDF614 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 		EB804DE42631D87B007ED8DB /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 		EB804DE52631D87B007ED8DB /* turtlerock.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = turtlerock.jpg; sourceTree = "<group>"; };
 		EB804DE62631D87B007ED8DB /* silversalmoncreek.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = silversalmoncreek.jpg; sourceTree = "<group>"; };
@@ -141,6 +143,7 @@
 			isa = PBXGroup;
 			children = (
 				EB8238A526328D03001E1076 /* Landmark.swift */,
+				EB07E0E82637D6A600FDF614 /* UserData.swift */,
 				EB8238A92632B0EE001E1076 /* Data.swift */,
 			);
 			path = Models;
@@ -232,6 +235,7 @@
 				EB0788BA2631D749001B2BFC /* LandmarkDetail.swift in Sources */,
 				EB8238AA2632B0EE001E1076 /* Data.swift in Sources */,
 				EB804E052631D943007ED8DB /* MapView.swift in Sources */,
+				EB07E0E92637D6A600FDF614 /* UserData.swift in Sources */,
 				EB8238B12632BE0E001E1076 /* LandmarkList.swift in Sources */,
 				EB0788B82631D749001B2BFC /* LandmarksApp.swift in Sources */,
 				EB804E022631D8AD007ED8DB /* Circleimage.swift in Sources */,
